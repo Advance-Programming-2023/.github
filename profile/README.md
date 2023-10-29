@@ -12,5 +12,5 @@ A system will soon be implemented that will publish the code on the Common Crate
 
 
 # A note on Rustfmt
-To avoid conflicts given by different code formatting, a configuration file for Rustfmt will be provided soon, follow this tutorial to activate it in CLion
+To avoid conflicts given by different code formatting, a configuration file for Rustfmt is present in the root of the project, follow this tutorial to enable RustFmt in JetBrains IDEs
 https://github.com/rust-lang/rustfmt/blob/master/intellij.md

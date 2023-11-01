@@ -17,5 +17,5 @@ https://github.com/rust-lang/rustfmt/blob/master/intellij.md
 
 # Documentation
 A version of the documentation extracted from the Drive document and transcribed into MarkDown for ease of viewing, organized by category can be found in this [repository](https://github.com/Advanced-Programming-2023/Documentation),
-to request that changes be made, proceed to edit the file on Drive following the predetermined procedure and if necessary contact the documentation manager [@Toniolo-Marco](https://github.com/Toniolo-Marco)
-as you can imagine the **transcription processis not instantaneous**, so it is possible that **after a meeting** the documentation **may not be up-to-date** for a couple of days.
+to request that changes be made, proceed to edit the file on Drive following the predetermined procedure and if necessary contact the documentation manager [@Toniolo-Marco](https://github.com/Toniolo-Marco), 
+as you can imagine the **transcription process is not instantaneous**, so it is possible that **after a meeting** the documentation **may not be up-to-date** for a couple of days.
